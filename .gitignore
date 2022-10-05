@@ -1,0 +1,14 @@
+#Virtual Environment
+venv
+
+#Hiden files
+.local
+.jupyter
+.ipython
+.ipynb_checkpoints
+.cache
+
+
+
+# Titanic data
+titanic.zip
